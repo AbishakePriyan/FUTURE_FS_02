@@ -56,10 +56,3 @@ This repository contains the code for **Task 2** of the Future Intern challenge
     - Fully responsive layouts
 
 ---
-
-## 🔧 Getting Started
-
-1. **Clone**  
-   ```bash
-   git clone https://github.com/your‑username/future-intern-task2.git
-   cd future-intern-task2/frontend
