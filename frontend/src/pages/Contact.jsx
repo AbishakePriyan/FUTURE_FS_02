@@ -118,7 +118,7 @@ const Contact = () => {
             India
           </p>
           <p className="text-gray-400 mb-4">
-            Email: <a href="mailto:support@jerseyhub.com" className="text-yellow-400 underline">support@jerseyhub.com</a><br/>
+            Email: <a href="mailto:support@jerseyhub.com" className="text-yellow-400 underline">kabishake191@gmail.com</a><br/>
             Phone: <span className="text-gray-200">+91 12345 67890</span>
           </p>
           <iframe
