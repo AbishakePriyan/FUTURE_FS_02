@@ -12,6 +12,7 @@ import Contact from './pages/Contact';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import { ToastContainer } from "react-toastify";
+import { Analytics } from "@vercel/analytics/react"
 
 
 const App = () => {
